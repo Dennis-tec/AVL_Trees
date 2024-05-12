@@ -3,6 +3,6 @@ Git clone and follow the instruction below to execute files, add places to the t
 based on an inputed zipcode.
 
 Run `javac *.java` to compile java source code.
-Run `java DriverHW08 uszipcodes.csv ziplocs.csv -d` to add and update places in the tree
-Run `java DriverHW08 uszipcodes.csv ziplocs.csv <in.txt> myout.txt` to add output to myout.txt
+Run `java Program uszipcodes.csv ziplocs.csv -d` to add and update places in the tree
+Run `java Program uszipcodes.csv ziplocs.csv <in.txt> myout.txt` to add output to myout.txt
 run `diff out.txt myout.txt` to compare correct results in out.txt with your outputed results in myout.txt
